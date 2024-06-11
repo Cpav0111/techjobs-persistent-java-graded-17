@@ -1,5 +1,4 @@
 package org.launchcode.techjobs.persistent.models;
-
 import java.util.ArrayList;
 
 // This is a change made in sandbox.
@@ -87,4 +86,3 @@ public class JobData {
 
 
 }
-
